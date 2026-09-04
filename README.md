@@ -21,6 +21,6 @@
 |---|---|
 | `intro-cs-systems-slides.zip` | 课程教学课件（PPT/PPTX 共 6 个文件） |
 | `intro-cs-systems-class-photos.zip` | 课堂板书与考点白板高清原图（共 3 张 JPG） |
-| `22计科期末（无答案）.pdf` | 22 届计算机系统基础期末考试试卷（原生 PDF） |
+| `intro-cs-systems-2022-final-exam.pdf` | 22 届计算机系统基础期末考试试卷（原生 PDF） |
 
 `notes/class/`、`exercises/` 与 `labs/` 继续在 Git 中维护。
