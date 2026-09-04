@@ -12,3 +12,15 @@
 ## 开源协议 / License
 
 本项目采用 [CC BY-NC-SA 4.0 (署名-非商业性使用-相同方式共享)](LICENSE) 许可协议。
+
+## 大型资料下载
+
+课程课件、课堂图集与期末试卷已移至 [archive-2026 Release](https://github.com/Henu-Kaguya/Introduction-to-Computer-Systems/releases/tag/archive-2026)：
+
+| Release 资产 | 说明 |
+|---|---|
+| `intro-cs-systems-slides.zip` | 课程教学课件（PPT/PPTX 共 6 个文件） |
+| `intro-cs-systems-class-photos.zip` | 课堂板书与考点白板高清原图（共 3 张 JPG） |
+| `22计科期末（无答案）.pdf` | 22 届计算机系统基础期末考试试卷（原生 PDF） |
+
+`notes/class/`、`exercises/` 与 `labs/` 继续在 Git 中维护。
